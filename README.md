@@ -1,4 +1,4 @@
-# MAYA-AGI: The Pentagon of Sensory Intelligence
+# MAYA: The Pentagon of Sensory Intelligence
 **AnantaNeural Labs | Core Architecture Blueprint v1.0**
 
 ## 🧠 Abstract
